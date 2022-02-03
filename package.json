@@ -1,0 +1,12 @@
+{
+  "name": "kyc-demo-library",
+  "version": "1.0.0",
+  "description": "This is a library for kyc demo page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
